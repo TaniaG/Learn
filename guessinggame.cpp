@@ -2,8 +2,8 @@
 using namespace std;
 
 int main () 
-{ int x {25};
-  int guess;
+{ int x, guess ;
+  
  
 	
 
