@@ -2,9 +2,9 @@
 using namespace std;
 
 int main () 
-{ int x;
+{ int x {25};
   int guess;
-  x = 55;
+ 
 	
 
 	cout << "What is your guess?"  << endl;
