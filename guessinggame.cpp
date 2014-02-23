@@ -2,7 +2,7 @@
 using namespace std;
 
 int main () 
-{ int x, guess ;
+{ int x (55), guess ;
   
  
 	
